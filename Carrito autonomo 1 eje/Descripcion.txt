@@ -1,0 +1,9 @@
+El objetivo era realizar un carrito que se moviera hacia adelante y hacia atras,
+ademas este debia tener la capacidad de detectar obstaculos para evitar chocar 
+o atorarse, ademas como añadido cuando detecta un obstaculo enciende un led que
+indica en que direccion esta el obstaculo ademas de emitir un sonido con un buzzer
+y en el caso de que tuviera obstaculos tanto adelante como atras deberia quedarse quieto 
+y encender ambos leds indicadores de obstaculo. 
+
+-Pendiente añadir descripcion completa del funcionamiento, ademas de implementar movimiento
+en todas las direcciones.

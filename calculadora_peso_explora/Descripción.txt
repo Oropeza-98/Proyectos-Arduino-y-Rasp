@@ -1,0 +1,5 @@
+Este proyecto se realizo para llevar al parque explora durante el evento del eclipse,
+con el objetivo de dar a conocer la diferencia entre los conceptos de peso y masa.
+
+USE LIBRERIAS QUE NO SON DE MI PRODIEDAD Y QUEDA PENDIENTE SUBIR LOS CREDITOS, 
+PERO AL MOMENTO DE SUBIR EL PROYECTO NO LOS TENGO A LA MANO

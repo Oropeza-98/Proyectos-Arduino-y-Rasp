@@ -1,0 +1,7 @@
+El objetivo era realizar la telemetria de un cohete que tomara mediciones de:
+Presión, temperatura y altitud. Esto usando el sensor BMP280 y la placa de desarrollo
+Arduino Uno.
+Ademas era necesario tener lecturas en tiempo real de las lecturas realizadas por la
+telemetria montada en el hidrocohete a travez de un segundo Arduino Uno conectado a una 
+laptop en la estación terrena para poder mostrar las lecturas a travez del monitor serial
+del propio Arduino IDE
